@@ -1,12 +1,4 @@
-####-----------------------------------------------------------------------------####
 
-#                     SPC Project - Monitoring production data EWMA
-# Data: 1 swine production system with 14 farms
-# Date: Dec, 22th, 2016
-# G. Silva and D. Linhares
-
-
-####-----------------------------------------------------------------------------####
 
 ### Objective: monitoring production parameter overtime to early detection of disease 
 # introduction into the herds.
